@@ -1,4 +1,4 @@
-REMOTE
+LOCAL
 # jebrinew
 nouveau repo
 this is Jebri new repo
